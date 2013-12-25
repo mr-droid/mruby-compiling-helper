@@ -21,3 +21,6 @@ doc/
 mruby
 mruby/
 
+# Android NDK
+android-ndk
+android-ndk/
